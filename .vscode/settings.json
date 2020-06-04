@@ -1,0 +1,25 @@
+{
+    "files.associations": {
+        "cassert": "c",
+        "cctype": "c",
+        "cfloat": "c",
+        "climits": "c",
+        "cmath": "c",
+        "cstdarg": "c",
+        "cstddef": "c",
+        "cstdio": "c",
+        "cstdlib": "c",
+        "cwchar": "c",
+        "cwctype": "c",
+        "exception": "c",
+        "limits": "c",
+        "new": "c",
+        "*.tcc": "c",
+        "cfenv": "c",
+        "cinttypes": "c",
+        "cstdbool": "c",
+        "cstdint": "c",
+        "type_traits": "c",
+        "typeinfo": "c"
+    }
+}
